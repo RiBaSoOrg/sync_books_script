@@ -14,3 +14,4 @@ curl -X GET "http://localhost:8080/books/sync-books" -H "accept: */*"
 
 # Halten Sie den Container am Laufen
 tail -f /dev/null
+ 
